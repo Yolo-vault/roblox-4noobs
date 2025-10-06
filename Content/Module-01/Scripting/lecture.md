@@ -702,7 +702,7 @@ self é uma referência ao próprio objeto.
 
 > Dicas importantes:
 - Com `:` (dois pontos) você define implicitamente e chama métodos que usam self.
-- Sempre use setmetatable(obj, Classe) e Classe.__index = Classe para ativar os métodos
+- Sempre use `setmetatable(obj, Classe)` e `Classe.__index = Classe` para ativar os métodos
 - Prefira function `Classe:método()` ao invés de `function Classe.método(self)`
 - Para projetos maiores, divida suas “classes” em ModuleScripts.
 
