@@ -26,6 +26,7 @@ Em Roblox, você pode programar scripts para criar mecânicas de jogo, sistemas 
   -- Isso é um comentário. Comentários não afetam o código.
   print("Olá, Roblox!") -- Imprime uma mensagem no console do Roblox Studio
 ---
+```
 
 ## Variáveis
 
