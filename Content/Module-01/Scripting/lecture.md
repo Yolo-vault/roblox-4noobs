@@ -143,13 +143,13 @@ Combinam condições booleanas.
 ### Precedência de operadores
 A ordem de execução (do maior para menor):
 
-- 1. `^` (exponenciação)
-- 2. `not`, `-` (negação unária)
-- 3. `*`, `/`, `%`
-- 4. `+`, `-`
-- 5. `<`, `<=`, `>`, `>=`, `==`, `~=`
-- 6. `and`
-- 7. `or`
+- `^` (exponenciação)
+- `not`, `-` (negação unária)
+- `*`, `/`, `%`
+- `+`, `-`
+- `<`, `<=`, `>`, `>=`, `==`, `~=`
+- `and`
+- `or`
 
 > Exemplo:
 ```luau
